@@ -72,7 +72,7 @@ with st.sidebar:
     # line break
     st.markdown(" ")
     # About the programmer
-    st.markdown("## Made by **Deepesh Mhatre** \U0001F609")
+    st.markdown("## Made by **Shashvat Singham** \U0001F609")
     st.markdown("Contribute to this project at "
                 "[*github.com/shashvat-singham*](https://github.com/shashvat-singham/NST-App.git)")
 
